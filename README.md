@@ -33,7 +33,7 @@ Web前端学习指南
 
 	- High Performance Javascript
 
-
+### 知乎问答:[http://www.zhihu.com/question/19809484](http://www.zhihu.com/question/19809484 "链接")
 ### 更多链接地址：[http://www1.w3cfuns.com/feres.php?do=picture&listtype=book](http://www1.w3cfuns.com/feres.php?do=picture&listtype=book "资源")
 
 
